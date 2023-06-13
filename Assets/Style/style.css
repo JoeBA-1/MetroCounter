@@ -36,6 +36,8 @@ h2{
 }
 #reset-btn{
     background-color: red;
+    font-weight: bolder;
+    font-size: xx-small;
 
 }
 #increment-btn:hover, #save-btn:hover, #reset-btn:hover{
