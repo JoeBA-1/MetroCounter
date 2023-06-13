@@ -18,7 +18,7 @@ h2{
     margin-bottom: 20px;
 }
 
-#increment-btn, #save-btn, #reset-btn, #decrement-btn{
+#increment-btn, #save-btn, #reset-btn, #decrement-btn, #delete-btn:{
     border: none;
     padding: 10px 5px;
     color: white;
@@ -41,9 +41,12 @@ h2{
     background-color:darkorange;
 
 }
-#increment-btn:hover, #save-btn:hover, #reset-btn:hover, #decrement-btn:hover{
+#increment-btn:hover, #save-btn:hover, #reset-btn:hover, #decrement-btn:hover, #delete-btn:hover{
     opacity: 0.6;
 }
 #decrement-btn{
+    background-color:orange;
+}
+#delete-btn{
     background-color: red;
 }
