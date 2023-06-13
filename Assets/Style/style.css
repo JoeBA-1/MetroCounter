@@ -18,7 +18,7 @@ h2{
     margin-bottom: 20px;
 }
 
-#increment-btn, #save-btn, #reset-btn{
+#increment-btn, #save-btn, #reset-btn, #decrement-btn{
     border: none;
     padding: 10px 5px;
     color: white;
@@ -29,6 +29,9 @@ h2{
 #increment-btn{
     background-color: blue;
 
+}
+#decrement-btn{
+    background-color: gold;
 }
 #save-btn{
     background-color: green;

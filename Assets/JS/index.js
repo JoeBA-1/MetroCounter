@@ -10,6 +10,11 @@ function increment(){
     counterEl.textContent = count
 
 }
+function decrement(){
+    count -= 1
+    counterEl.textContent = count
+
+}
 
 function save(){
     saveEl.textContent += (count + " - ")
