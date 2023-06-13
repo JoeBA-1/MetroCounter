@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+div{
+    padding-top: 300px;
+    background-image: url(/Assets/Pic/Dubai-metro.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 600px;
+}
+h1{
+    margin: 10px 0px;
+}
+h2{
+    margin-bottom: 20px;
+}
+
+#increment-btn, #save-btn, #reset-btn{
+    border: none;
+    padding: 10px 5px;
+    color: white;
+    width: 150px;
+    border-radius: 7px;
+    font-weight: bold;
+}
+#increment-btn{
+    background-color: blue;
+
+}
+#save-btn{
+    background-color: green;
+
+}
+#reset-btn{
+    background-color: red;
+
+}
+#increment-btn:hover, #save-btn:hover, #reset-btn:hover{
+    opacity: 0.6;
+}
