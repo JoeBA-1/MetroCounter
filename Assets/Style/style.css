@@ -31,14 +31,14 @@ h2{
 
 }
 #decrement-btn{
-    background-color: yellow;
+    background-color: gold;
 }
 #save-btn{
     background-color: green;
 
 }
 #reset-btn{
-    background-color:chartreuse ;
+    background-color:blueviolet ;
 
 }
 #increment-btn:hover, #save-btn:hover, #reset-btn:hover, #decrement-btn:hover, #delete-btn:hover{
