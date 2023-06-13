@@ -38,9 +38,12 @@ h2{
 
 }
 #reset-btn{
-    background-color: red;
+    background-color:darkorange;
 
 }
 #increment-btn:hover, #save-btn:hover, #reset-btn:hover{
     opacity: 0.6;
+}
+#decrement-btn{
+    background-color: red;
 }
