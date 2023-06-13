@@ -11,8 +11,14 @@ function increment(){
 
 }
 function decrement(){
-    count -= 1
+    if(counterEl.textContent == 0){
+        count = 0
     counterEl.textContent = count
+    }
+    else{
+        count -= 1
+        counterEl.textContent = count  
+    }
 
 }
 

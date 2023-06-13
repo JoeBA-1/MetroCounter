@@ -41,7 +41,7 @@ h2{
     background-color:darkorange;
 
 }
-#increment-btn:hover, #save-btn:hover, #reset-btn:hover{
+#increment-btn:hover, #save-btn:hover, #reset-btn:hover, #decrement-btn:hover{
     opacity: 0.6;
 }
 #decrement-btn{
